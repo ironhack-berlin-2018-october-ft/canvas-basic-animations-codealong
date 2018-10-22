@@ -32,3 +32,6 @@ The code is available in the current folder.
 ## Instructions
 
 They will come is the architecture is approved.
+
+
+<img src="https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_5e57f92e86e0837bb4a4be0c5ae46cb0.gif" style="width:100%">
