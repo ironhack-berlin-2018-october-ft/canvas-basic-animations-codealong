@@ -29,7 +29,7 @@ Every time you design a game in canvas with animations, you can follow this arch
 
 The code is available in the current folder.
 
-## Instructions
+## Instructions
 
 They will come is the architecture is approved.
 
